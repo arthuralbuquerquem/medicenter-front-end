@@ -8,7 +8,7 @@ Este foi um projeto desenvolvido durante o curso B7web.
 
 ## Créditos:
 
-- Créditos ao [QuanticaLabs](https://quanticalabs.com/home/).
+- Template por: [QuanticaLabs](https://quanticalabs.com/home/).
 
 ### Tecnologias Usadas:
 
