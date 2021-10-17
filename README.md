@@ -1,4 +1,16 @@
-# medicenter-front-end
- Projeto front-end criado durante o curso b7web
+# Medicenter Front-End
 
-<a href="https://arthuralbuquerquem.github.io/medicenter-front-end/">Link para o Site</a>
+![medicenter-front-end](https://user-images.githubusercontent.com/89046894/137644216-d27fb5a9-d4c0-4ee9-80f2-0c172f7eafec.png)
+
+## Status: Concluído ✔️
+
+Este foi um projeto desenvolvido durante o curso B7web.
+
+## Créditos:
+
+- Créditos ao [QuanticaLabs](https://quanticalabs.com/home/).
+
+### Tecnologias Usadas:
+
+- HTML
+- CSS
