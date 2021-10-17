@@ -2,7 +2,8 @@
 
 ## Status: Concluído ✔️
 
-Este foi um projeto desenvolvido durante o curso B7web.
+Este foi um projeto desenvolvido durante o curso B7web.<br><br>
+[Link para o Site](https://arthuralbuquerquem.github.io/medicenter-front-end/)
 
 ## Créditos:
 
